@@ -21,5 +21,4 @@ NeuroLang is designed to make **learning programming interactive, fun, and educa
 1. Ensure **Python 3.x** is installed on your system.
 2. Install Kivy:
 ```bash
-pp
-e
+pip install kivy
